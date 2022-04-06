@@ -70,7 +70,7 @@ const About = ({ clientHeight }) => {
             In school, I am the Captain of the Robotics Team, a member of the Math Team, a Varsity Track and Field Javelin Thrower, and an assistant coach for the middle school robotics team.{" "}
           </span>
           <span className="about-3 leading-tight">
-          Outside of school, I am an Eagle Scout and Junior Assistant Scoutmaster, robotics teacher in my local community, Software Engineering & Research Intern at The Zone, and a Data Analytics & Economics Intern at The Zone.
+          Outside of school, I am an Eagle Scout and Junior Assistant Scoutmaster, robotics teacher in my local community, Software Engineering & Research Intern at The Zone, and a Machine Learning Intern at Princeton Equity Group.
           </span>
         </h1>
       </div>
